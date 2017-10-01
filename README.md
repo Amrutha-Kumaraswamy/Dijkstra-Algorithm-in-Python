@@ -1,1 +1,1 @@
-# Dijkstra-Algorithm-in-Python
+Task: Writing a Program (In Python) that computes the shortest distance between any two routers in a network based on the Dijkstra Algorithm. The algorithm involves finding the shortest spanning tree between a pair of graph nodes
